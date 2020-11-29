@@ -8,7 +8,7 @@ The resulting test.csv file in [*submission_20710754.csv*](https://github.com/Wi
 Python 3.7,  jupyter notebook
 # Requirements
 requests <p>
-bs4  # BeautifulSoup <p>
+bs4       # BeautifulSoup <p>
 datetime <p>
 numpy <p>
 pandas <P>
