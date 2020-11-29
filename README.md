@@ -17,4 +17,4 @@ seaborn <p>
 sklearn <p>
 xgboost <p>
 # How to run
-This notebook was originally written in [kaggle kernel](https://www.kaggle.com/willafan/msbd5001-fall2020?scriptVersionId=47285449). To run it again, need to download it into kaggle notebook, or change the root.
+This notebook was originally written in [kaggle kernel](https://www.kaggle.com/willafan/msbd5001-fall2020). To run it again, need to download it into kaggle notebook, or change the root.
